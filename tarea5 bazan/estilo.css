@@ -1,0 +1,41 @@
+
+body{ background-color: beige;}
+
+
+
+#la{ width: 200px;
+    width: 250px ;height: 250px;
+}
+
+   
+    
+    #papa{height: 100%;
+        width: 90%;
+        max-width: 1200px;
+        margin: auto; border:2px solid green;
+    padding: 40px;
+    }
+    #caja{ width: 40%; margin: auto;
+        
+    }
+    .mama{  display: flex;gap: 50px; 
+    height: 50%; flex-wrap: wrap; }
+    
+     #tia{
+         background-color:  ghostwhite; width: 70%; height: 100px; border-radius: 10px;
+      }
+      
+    #imagen{ 
+        width: 70%;height: 150px;
+    }
+    .ic{
+         font-family: "Short Stack", cursive;
+  font-weight: 400;
+  font-style: normal;
+    }
+   
+   a{
+    color: lightseagreen; 
+   }
+    
+a:hover{ background-color: bisque;}
