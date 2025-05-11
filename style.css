@@ -1,0 +1,85 @@
+
+.padre{
+    border: 10px ridge black; width: 100%;
+}
+
+body{
+    background-image: url(fondo.jpg);
+}
+.uno{
+    border-radius: 125px; box-shadow: 0 0 50px black;
+}
+#pe{ display: flex; justify-content: end;background-color: white; width: 160px; 
+}
+  .cua{display: flex; justify-content: end;}
+.hijo{
+    display: flex;width: 90%; height: 800px;border: 5px solid green; justify-content: space-evenly; align-items: center; text-align: center; margin: auto;
+}
+.html{
+    border: 1px solid black;width: 350px; height: 600px;  background-color:rgb(254, 223, 164)
+}
+.java{
+    border: 1px solid black;width: 350px; height: 600px;background-color:rgb(206, 252, 197)
+}
+.css{
+    border: 1px solid black;width: 350px; height: 600px; background-color:rgb(189, 208, 246)
+}
+.icons{ 
+    display: flex; width: 90%; height: 200px; ; justify-content: left;
+}
+
+
+
+
+
+
+
+
+
+.hija{ display: flex; height: 500px;  width: 90%; border: 5px solid green; justify-content:space-evenly; align-items: center; text-align: center;margin: auto;
+    
+
+}
+.caseta{ display: flex;
+    height: 500px;
+    width: 90%;
+    
+    
+    
+}
+
+#casa{ display: flex; 
+    width: 700px; height: 500px; margin: auto; box-shadow: 0 0 50px black; border-radius: 15px;
+}
+
+
+.j{
+    border: 1px solid black; width: 300px; height: 400px;background-color:rgb(206, 252, 197);font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+}
+.c{
+    border: 1px solid black;width: 300px; height: 400px;background-color:rgb(189, 208, 246) ;font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+}
+.h{
+    border: 1px solid black;width: 300px; height: 400px; background-color:rgb(254, 223, 164);font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+}
+    .meme{ text-align: center;
+        background-color: blue; 
+    }
+    .meme2{ text-align: center;
+        background-color: greenyellow;
+    }
+    .meme1{ text-align: center;
+        background-color: orange;
+    }
+   .da{text-align: center;background-color: greenyellow;
+   }
+   .du{text-align: center;background-color: blue;
+   }
+   .do{text-align: center;background-color: orange;
+   }
+   .ew{
+    background-color: yellow;
+   }
+   .elp{
+    height: 50px; background-color: white; width: 90%; text-align: center;margin: auto;align-content: center; margin-bottom: 50px; border-radius: 500px; box-shadow: 0 0 10px;
+   }
